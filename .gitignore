@@ -1,0 +1,18 @@
+# ROS 2 build output
+robot_ws/build/
+robot_ws/install/
+robot_ws/log/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Secrets (API keys etc.)
+.env
+
+# Virtual machines / big files
+*.vdi
+*.vbox
+*.vbox-prev
+Logs/
